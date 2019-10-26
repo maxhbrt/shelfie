@@ -1,0 +1,26 @@
+.header-component{
+  background-color: #519872;
+  width: 100%;
+  height: 12vh;
+  position: fixed;
+  
+}
+.body{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: center;
+	align-content: stretch;
+}
+.listings{
+  margin-top: 100px;
+}
+.dashboard-title{
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  font-size: 20px;
+}

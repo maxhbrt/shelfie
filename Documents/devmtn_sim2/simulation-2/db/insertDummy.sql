@@ -1,0 +1,1 @@
+INSERT INTO property ( name, adress, city, state, zip ) VALUES ( 'Forest House', '8996 E. st., 182', 'Tucson', 'AZ', 86001);
